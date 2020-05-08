@@ -1,5 +1,8 @@
 # Anomaly-Detection-in-Heat-Experiments
 
-Merge dataset -> train test split -> min max scaler -> models -> comparison
-
-models: supervised(Multivariate gaussian and xgboost) and unsupervised (k-means)
+Models Implemented
+1.  Supervised Anomaly Detection
+    - Multivariate Gaussian based model
+    - XGBoost Classification model
+2.  Unsupervised Anomaly Detection
+    - K-means clustering
